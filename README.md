@@ -1,2 +1,2 @@
 # Enrollment-System
-Database connection with JDBC for college student enrollment system.
+Database connection by using JDBC for college student enrollment system.
